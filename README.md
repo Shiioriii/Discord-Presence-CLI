@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> A Simple & Easy Show a Discord Presence Using a CLI
+> A Simple & Easy Show a Discord Presence Using CLI Interface
 
 ### 🏠 [Homepage](https://github.com/Shiioriii/DiscordRichPresenceCLI#readme)
 
