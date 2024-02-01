@@ -56,9 +56,9 @@ inquirer
     }
   });
 function oldPresence() {
-  if (!fs.readdirSync(homedir).includes('.discord-activity-rp-config.json')) return newPresence();
+  if (!fs.readdirSync(homedir).includes('.discord-presence-config.json')) return newPresence();
   clear();
-  const data = fs.readFileSync(`${homedir}/.discord-activity-rp-config.json`);
+  const data = fs.readFileSync(`${homedir}/.discord-presence-config.json`);
   const { choice } = JSON.parse(data);
   if (choice === 'YouTube') {
     const client = require('discord-rich-presence')('742615072614121602');
@@ -289,47 +289,47 @@ function newPresence() {
   ]).then((ans) => {
     switch (ans.Choice) {
       case 'YouTube':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'YouTube' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'YouTube' }));
         oldPresence();
         break;
       case 'Netflix':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Netflix' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Netflix' }));
         oldPresence();
         break;
       case 'Google Chrome':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Google Chrome' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Google Chrome' }));
         oldPresence();
         break;
       case 'Internet Explorer':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Internet Explorer' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Internet Explorer' }));
         oldPresence();
         break;
       case 'Snipping Tool':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Snipping Tool' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Snipping Tool' }));
         oldPresence();
         break;
       case 'Zoom':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Zoom' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Zoom' }));
         oldPresence();
         break;
       case 'Fortnite':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Fortnite' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Fortnite' }));
         oldPresence();
         break;
       case 'Minecraft':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Minecraft' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Minecraft' }));
         oldPresence();
         break;
       case 'Minecraft 2':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Minecraft 2' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Minecraft 2' }));
         oldPresence();
         break;
       case 'Among Us':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Among Us' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Among Us' }));
         oldPresence();
         break;
       case 'Forza Horizon 4':
-        fs.writeFileSync(`${homedir}/.discord-activity-rp-config.json`, JSON.stringify({ choice: 'Forza Horizon 4' }));
+        fs.writeFileSync(`${homedir}/.discord-presence-config.json`, JSON.stringify({ choice: 'Forza Horizon 4' }));
         oldPresence();
         break;
       default:
