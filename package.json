@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shiioriii/DiscordRichPresenceCLI.git"
+    "url": "git+https://github.com/Shiioriii/DiscordPresenceCLI.git"
   },
   "keywords": [
     "discord",
@@ -34,7 +34,7 @@
   "author": "Shiorii <shiorii@fypmoon.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shiioriii/DiscordRichPresenceCLI/issues"
+    "url": "https://github.com/Shiioriii/DiscordPresenceCLI/issues"
   },
-  "homepage": "https://github.com/Shiioriii/DiscordRichPresenceCLI#readme"
+  "homepage": "https://github.com/Shiioriii/DiscordPresenceCLI#readme"
 }
