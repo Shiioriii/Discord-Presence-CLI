@@ -1,0 +1,40 @@
+{
+  "name": "discord-presence-cli",
+  "version": "1.0.0",
+  "description": "Show a Discord Presence Using a CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiioriii/DiscordRichPresenceCLI.git"
+  },
+  "keywords": [
+    "discord",
+    "rpc",
+    "richpresence",
+    "presence",
+    "shiiorii",
+    "rich"
+  ],
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "delay": "^4.4.0",
+    "discord-rich-presence": "0.0.8",
+    "discord-rpc": "^3.1.4",
+    "inquirer": "^7.3.3",
+    "ora": "^4.0.5"
+  },
+  "devDependencies": {},
+  "bin": {
+    "shrun": "src/index.js"
+  },
+  "author": "Shiorii <shiorii@fypmoon.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shiioriii/DiscordRichPresenceCLI/issues"
+  },
+  "homepage": "https://github.com/Shiioriii/DiscordRichPresenceCLI#readme"
+}
