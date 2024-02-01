@@ -1,23 +1,28 @@
 <h1 align="center">Welcome to Discord Presence CLI 👋</h1>
+<h4 align="center">A Simple & Easy Way To Show a Discord Presence Using CLI Systems</h4>
+<div class="shiorii" align="center">
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Shiioriii/DiscordRichPresenceCLI#readme" target="_blank">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/Shiioriii/DiscordPresenceCLI#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/Shiioriii/DiscordRichPresenceCLI/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/Shiioriii/DiscordPresenceCLI/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/Shiioriii/DiscordPresenceCLI/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Shiioriii/Discord-Presence-CLI" />
   </a>
   <a href="https://twitter.com/shiorii" target="_blank">
     <img alt="Twitter: shiorii" src="https://img.shields.io/twitter/follow/shiorii.svg?style=social" />
   </a>
+  <a href="https://npmjs.org/package/discord-presence-cli" target="_blank">
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/discord-presence-cli" />
+  </a>
 </p>
-
-> A Simple & Easy Show a Discord Presence Using CLI Interface
+</div>
 
 ### 🏠 [Homepage](https://github.com/Shiioriii/DiscordRichPresenceCLI#readme)
+### 🛠️ [NPM](https://npmjs.org/package/discord-presence-cli)
 
 ## Requirements
 
@@ -32,6 +37,7 @@ npm i discord-presence-cli -g
 shrun
 ```
 ## Different Option
+
 ```
 There are currently 8 different options to choose from: YouTube, Netflix, Google Chrome, Internet Explorer, Snipping Tool, Zoom, Fortnite, Minecraft, Minecraft 2, Among Us, and Forza Horizon 4.
 ```
@@ -46,7 +52,7 @@ There are currently 8 different options to choose from: YouTube, Netflix, Google
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Shiioriii/DiscordRichPresenceCLI/issues). You can also take a look at the [contributing guide](https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Shiioriii/DiscordPresenceCLI/issues). You can also take a look at the [contributing guide](https://github.com/Shiioriii/DiscordPresenceCLI/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -59,4 +65,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2024 [Shiorii <shiorii@fypmoon.org>](https://github.com/Shiioriii).<br />
-This project is [MIT](https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/Shiioriii/DiscordPresenceCLI/blob/main/LICENSE) licensed.
