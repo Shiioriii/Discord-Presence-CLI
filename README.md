@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Shiioriii/Discord Presence CLI" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Shiioriii/Discord-Presence-CLI" />
   </a>
   <a href="https://twitter.com/shiorii" target="_blank">
     <img alt="Twitter: shiorii" src="https://img.shields.io/twitter/follow/shiorii.svg?style=social" />
@@ -22,7 +22,7 @@
 ## Requirements
 
 ```sh
-Node 16>
+Node 16 >
 ```
 
 ## Usage
@@ -59,4 +59,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2024 [Shiorii <shiorii@fypmoon.org>](https://github.com/Shiioriii).<br />
-This project is [MIT](https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/Shiioriii/DiscordRichPresenceCLI/blob/main/LICENSE) licensed.
