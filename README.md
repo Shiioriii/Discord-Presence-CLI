@@ -21,7 +21,7 @@
 </p>
 </div>
 
-### 🏠 [Homepage](https://github.com/Shiioriii/DiscordRichPresenceCLI#readme)
+### 🏠 [Homepage](https://github.com/Shiioriii/DiscordPresenceCLI#readme)
 ### 🛠️ [NPM](https://npmjs.org/package/discord-presence-cli)
 
 ## Requirements
@@ -52,7 +52,7 @@ There are currently 8 different options to choose from: YouTube, Netflix, Google
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Shiioriii/DiscordPresenceCLI/issues). You can also take a look at the [contributing guide](https://github.com/Shiioriii/DiscordPresenceCLI/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Shiioriii/DiscordPresenceCLI/issues). You can also take a look at the [contributing guide](https://github.com/Shiioriii/DiscordPresenceCLI/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
