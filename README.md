@@ -2,7 +2,7 @@
 <h4 align="center">A Simple & Easy Way To Show a Discord Presence Using CLI Systems</h4>
 <div class="shiorii" align="center">
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.4-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Shiioriii/DiscordPresenceCLI#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
