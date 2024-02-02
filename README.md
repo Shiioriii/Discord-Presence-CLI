@@ -2,7 +2,7 @@
 <h4 align="center">A Simple & Easy Way To Show a Discord Presence Using CLI Systems</h4>
 <div class="shiorii" align="center">
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Shiioriii/DiscordPresenceCLI#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -27,7 +27,14 @@
 ## Requirements
 
 ```sh
-Node 16 >
+Node.js 16.x or higher
+Python 3.x
+C++ Compiler:
+   - Windows: Visual Studio Build Tools
+   - macOS: Xcode Command Line Tools
+   - Linux: GCC or another C++ compiler
+Build Tools for Windows: `npm install --global --production windows-build-tools`
+Environment Variables: Ensure Node.js (version 16.x), Python (version 3.x), and the C++ compiler paths are in your system's PATH.
 ```
 
 ## Usage
@@ -39,7 +46,8 @@ shrun
 ## Different Option
 
 ```
-There are currently 8 different options to choose from: YouTube, Netflix, Google Chrome, Internet Explorer, Snipping Tool, Zoom, Fortnite, Minecraft, Minecraft 2, Among Us, and Forza Horizon 4.
+There are currently 8 different options to choose from: 
+YouTube, Netflix, Google Chrome, Internet Explorer, Snipping Tool, Zoom, Fortnite, Minecraft, Minecraft 2, Among Us, and Forza Horizon 4.
 ```
 
 ## Author
