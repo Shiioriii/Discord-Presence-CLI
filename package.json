@@ -1,6 +1,6 @@
 {
   "name": "discord-presence-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Show a Discord Presence Using a CLI",
   "main": "src/index.js",
   "scripts": {
