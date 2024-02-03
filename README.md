@@ -15,7 +15,7 @@
     <img alt="Twitter: shioriikwkmi" src="https://img.shields.io/twitter/follow/shioriikwkmi.svg?style=social" />
   </a>
   <a href="https://npmjs.org/package/discord-presence-cli" target="_blank">
-  <img alt="NPM Version" src="https://img.shields.io/npm/v/discord-presence-cli?style=flat-square" />
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/discord-presence-cli?style=flat-square&logo=npm" />
   </a>
   <a href="https://npmjs.org/package/discord-presence.cli" target="_blank">
   <img alt="NPM Downloads" src="https://img.shields.io/npm/dt/discord-presence-cli?style=flat-square&logo=npm">
