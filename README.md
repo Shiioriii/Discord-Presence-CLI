@@ -2,21 +2,23 @@
 <h4 align="center">A Simple & Easy Way To Show a Discord Presence Using CLI Systems</h4>
 <div class="shiorii" align="center">
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.6-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Shiioriii/DiscordPresenceCLI#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square" />
   </a>
   <a href="https://github.com/Shiioriii/DiscordPresenceCLI/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" />
   </a>
   <a href="https://github.com/Shiioriii/DiscordPresenceCLI/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Shiioriii/Discord-Presence-CLI" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Shiioriii/Discord-Presence-CLI?style=flat-square" />
   </a>
-  <a href="https://twitter.com/shiorii" target="_blank">
-    <img alt="Twitter: shiorii" src="https://img.shields.io/twitter/follow/shiorii.svg?style=social" />
+  <a href="https://twitter.com/shioriikwkmi" target="_blank">
+    <img alt="Twitter: shioriikwkmi" src="https://img.shields.io/twitter/follow/shioriikwkmi.svg?style=social" />
   </a>
   <a href="https://npmjs.org/package/discord-presence-cli" target="_blank">
-  <img alt="NPM Version" src="https://img.shields.io/npm/v/discord-presence-cli" />
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/discord-presence-cli?style=flat-square" />
+  </a>
+  <a href="https://npmjs.org/package/discord-presence.cli" target="_blank">
+  <img alt="NPM Downloads" src="https://img.shields.io/npm/dt/discord-presence-cli?style=flat-square&logo=npm">
   </a>
 </p>
 </div>
@@ -45,7 +47,7 @@ shrun
 ```
 ## Different Option
 
-```
+```sh
 There are currently 8 different options to choose from: 
 YouTube, Netflix, Google Chrome, Internet Explorer, Snipping Tool, Zoom, Fortnite, Minecraft, Minecraft 2, Among Us, and Forza Horizon 4.
 ```
@@ -55,7 +57,7 @@ YouTube, Netflix, Google Chrome, Internet Explorer, Snipping Tool, Zoom, Fortnit
 👤 **Shiorii <shiorii@fypmoon.org>**
 
 * Website: https://fypmoon.org
-* Twitter: [@shiorii](https://twitter.com/shiorii)
+* Twitter: [@shioriikwkmi](https://twitter.com/shioriikwkmi)
 * Github: [@Shiioriii](https://github.com/Shiioriii)
 
 ## 🤝 Contributing
